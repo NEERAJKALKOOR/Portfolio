@@ -62,7 +62,7 @@ const Hero = () => {
               variant="outline" 
               className="group glass border-white/20 bg-white text-black hover:text-white hover:shadow-glow transition-all duration-500 font-medium relative overflow-hidden"
             >
-              <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-pink-500 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+              <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-cyan-400 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
               <Download className="mr-3 h-5 w-5 relative z-10" />
               <span className="relative z-10">Resume</span>
             </Button>
